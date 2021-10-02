@@ -1,0 +1,14 @@
+.header{
+    background-color:rgb(33, 166, 255);
+    color: white;
+    height: 125px;
+}
+
+.bg-gray{
+    background-color: rgb(212, 212, 212);
+}
+
+.comments_likes{
+    background-color: rgb(255, 145, 0);
+    color: white;
+}

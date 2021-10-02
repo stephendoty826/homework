@@ -1,0 +1,22 @@
+body{
+    margin: 0px;
+}
+
+.left{
+    position: absolute;
+    background-color: blue;
+    border: 5px solid darkblue;
+    box-sizing: border-box;
+    width:20%;
+    height: 100%;
+}
+
+.right{
+    position: absolute;
+    background-color: red;
+    border: 5px solid darkred;
+    box-sizing: border-box;
+    width: 80%;
+    height: 100%;
+    left: 20%
+}

@@ -1,0 +1,82 @@
+/* Card Based Layout - Base styles */
+
+body {
+	background: hsl(0, 0%, 90%);
+	margin: 0px;
+	display: flex;
+	flex-direction: column;
+}
+
+.masthead {
+	background: hsl(0, 0%, 20%);
+}
+
+.skip-link{
+	position: absolute;
+	z-index: -10;
+}
+
+.site-branding{
+	display: flex;
+	align-items: center;
+	height: 150px;
+	font-size: 24px;
+
+}
+
+.site-title {
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: normal;
+}
+
+.centered{
+	display: flex;
+	justify-content: center;
+}
+
+.cards{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	padding-top: 25px;
+	width: 70%;
+}
+
+.card {
+	background: white;
+	width: 250px;
+	height: 500px;
+	margin: 15px;
+}
+
+.card a {
+	color: black;
+	text-decoration: none;
+}
+
+.card:hover {
+	box-shadow: 3px 3px 8px hsl(0, 0%, 21%);
+}
+
+.card-content {
+	padding: 1.4em;
+}
+
+.card-content h2 {
+	margin-top: 0;
+	margin-bottom: .5em;
+	font-weight: normal;
+}
+
+.card-content p {
+	font-size: 95%;
+}
+
+.thumbnail{
+	margin: 0px;
+}
+
+img{
+	width: 100%;
+}

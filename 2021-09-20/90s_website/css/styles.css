@@ -1,0 +1,57 @@
+
+html{
+    background-color:#ffef78
+}
+
+body{
+    text-align: center;
+    width: 80%;
+    height: 100%;
+    margin: 25px auto;
+    background-color: #FF8589;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+}
+
+.title {
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Luckiest Guy', cursive;
+    letter-spacing: 6px;
+    color: #ffffff;
+    text-shadow: 8px 6px 4px #333333;
+
+}
+
+.nav_bar {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Luckiest Guy', cursive;
+    font-size: 22px;
+    color:white;
+    background-color: #1982C4;
+    padding-top: 6px;
+    text-shadow: 2px 2px 2px #1C6EA4;
+    box-shadow: 3px 3px 6px  #000000c0;
+}
+
+.text {
+    text-align: center;
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+    font-size: 22px;
+    font-family: 'Paytone One', sans-serif;
+    letter-spacing: 1px;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:visited{
+    color: white;
+    text-decoration: none;
+}

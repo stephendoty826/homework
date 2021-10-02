@@ -1,0 +1,56 @@
+body{
+    margin:0px;
+    font-size:36px;
+}
+
+.container{
+    height: 100vh;
+}
+
+.header{
+    position: fixed;
+    background-color: red;
+    border: 5px solid darkred;
+    height: 10%;
+    width: 100%;
+    box-sizing: border-box;
+    z-index: 20;
+    text-align: center;
+    line-height: 85px;
+}
+
+.sidebar{
+    position: absolute;
+    background-color: blue;
+    border: 5px solid darkblue;
+    box-sizing: border-box;
+    top: 10%;
+    width: 30%;
+    height: 80%;
+    text-align: center;
+}
+
+.main-content{
+    position: absolute;
+    background-color: green;
+    border: 5px solid darkgreen;
+    box-sizing: border-box;
+    top: 10%;
+    height: auto;
+    width: 70%;
+    left: 30%;
+    height: 80%;
+    text-align: center;
+}
+
+.footer{
+    position: fixed;
+    background-color: yellow;
+    border: 5px solid darkgoldenrod;
+    box-sizing: border-box;
+    height: 10%;
+    width: 100%;
+    bottom: 0%;
+    text-align: center;
+    line-height: 85px;
+}
