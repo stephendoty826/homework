@@ -169,31 +169,31 @@
 // // 11. n times
 // // You will write a function callNTimes that takes two arguments: times as a number, and fun as a function. It will call that function for that many times. Example:
 
-// // > callNTimes(5, hello)
-// // Hello, world!
-// // Hello, world!
-// // Hello, world!
-// // Hello, world!
-// // Hello, world!
-// // You are allowed to use a loop in the implementation of callNTimes.
+// > callNTimes(5, hello)
+// Hello, world!
+// Hello, world!
+// Hello, world!
+// Hello, world!
+// Hello, world!
+// You are allowed to use a loop in the implementation of callNTimes.
 
-// function fun(){
-//     console.log("Hello, world!")
-// }
+function fun(){
+    console.log("Hello, world!")
+}
 
-// function goodbye(){
-//     console.log("Goodbye!")
-// } 
+function goodbye(){
+    console.log("Goodbye!")
+} 
 
-// function callNTimes(numberOfTimes, func){
-//     for(let i = 1; i <= numberOfTimes; i++){
-//         func()
-//     }
-// }
+function callNTimes(numberOfTimes, func){
+    for(let i = 1; i <= numberOfTimes; i++){
+        func()
+    }
+}
 
-// callNTimes(6, fun)
+callNTimes(6, fun)
 
-// callNTimes(3, goodbye)
+callNTimes(3, goodbye)
 
 
 
