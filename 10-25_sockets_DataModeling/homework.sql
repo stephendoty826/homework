@@ -1,4 +1,0 @@
-
-CREATE TABLE myHomework(
-    id SERIAL NOT NULL UNIQUE PRIMARY KEY
-);
