@@ -1,0 +1,50 @@
+
+.issueContainer{
+    margin: 25px
+}
+
+.issueItem{
+    padding: 10px;
+    border-top: 1px solid black
+    /* border-bottom: 1px solid black */
+}
+
+.issueItem:hover{
+    background-color: rgb(209, 209, 209);
+    cursor: pointer;
+}
+
+.issueTitle{
+    font-size: 20px;
+    font-weight: bolder;
+    padding-bottom: 10px;
+}
+
+.detailsContainer{
+    margin: 35px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black
+}
+
+.detailsTitle{
+    font-size: 20px;
+    font-weight: bolder;
+    padding-bottom: 10px;
+}
+
+.detailsBody{
+    margin-top: 15px;
+    font-size: 16px;
+    font-style: italic;
+}
+
+.backLink{
+    margin: 25px;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.backLink:hover{
+    cursor: pointer;
+    color: rgb(0, 77, 149)
+}
