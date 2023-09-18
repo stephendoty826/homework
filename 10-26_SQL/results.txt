@@ -1,0 +1,20 @@
+         name          |                                 review                                  
+-----------------------+-------------------------------------------------------------------------
+ Olive Garden          | The employees were so rude to me.
+ Torchys               | Food was good, atmosphere was OK
+ Franks Grill          | It was OK. Food was not too great
+ Outback Steakhouse    | Food was great. Employees were kinda rude.
+ Pappas BBQ            | The food was sooo good. I have to go again.
+ Raising Canes         | Atmosphere was not for me but the food was good.
+ Garden of Olives      | Service was slow but food was good when we got it.
+ Flaming Tacos         | Food was great and employees were so nice.
+ Chucks Grill          | Restaurant was dirty and employees were rude. Food was OK.
+ Salt Grass Steakhouse | Great food. Wonderfull experience and atmosphere.
+ Hidaway BBQ           | My only complaint is that this restaurant is on the other side of town.
+ Chick-fil-a           | Food was great. Portions were big.
+ Olive Garden          | I was so full when I left. Gotta go again.
+ Torchys               | They did not have my kind of tea.
+ Franks Grill          | Employee at the cashier yelled at me. Food was OK.
+ Outback Steakhouse    | Food and atmosphere was not very good.
+(16 rows)
+
